@@ -1,0 +1,17 @@
+C:\Users\JUAN-\source\repos\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ\bin\Debug\net7.0\ConsoleAppRabbitMQ.exe
+C:\Users\JUAN-\source\repos\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ\bin\Debug\net7.0\ConsoleAppRabbitMQ.deps.json
+C:\Users\JUAN-\source\repos\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ\bin\Debug\net7.0\ConsoleAppRabbitMQ.runtimeconfig.json
+C:\Users\JUAN-\source\repos\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ\bin\Debug\net7.0\ConsoleAppRabbitMQ.dll
+C:\Users\JUAN-\source\repos\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ\bin\Debug\net7.0\ConsoleAppRabbitMQ.pdb
+C:\Users\JUAN-\source\repos\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\JUAN-\source\repos\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ\obj\Debug\net7.0\ConsoleAppRabbitMQ.csproj.AssemblyReference.cache
+C:\Users\JUAN-\source\repos\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ\obj\Debug\net7.0\ConsoleAppRabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUAN-\source\repos\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ\obj\Debug\net7.0\ConsoleAppRabbitMQ.AssemblyInfoInputs.cache
+C:\Users\JUAN-\source\repos\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ\obj\Debug\net7.0\ConsoleAppRabbitMQ.AssemblyInfo.cs
+C:\Users\JUAN-\source\repos\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ\obj\Debug\net7.0\ConsoleAppRabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\JUAN-\source\repos\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ\obj\Debug\net7.0\ConsoleAppRabbitMQ.csproj.CopyComplete
+C:\Users\JUAN-\source\repos\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ\obj\Debug\net7.0\ConsoleAppRabbitMQ.dll
+C:\Users\JUAN-\source\repos\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ\obj\Debug\net7.0\refint\ConsoleAppRabbitMQ.dll
+C:\Users\JUAN-\source\repos\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ\obj\Debug\net7.0\ConsoleAppRabbitMQ.pdb
+C:\Users\JUAN-\source\repos\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ\obj\Debug\net7.0\ConsoleAppRabbitMQ.genruntimeconfig.cache
+C:\Users\JUAN-\source\repos\ConsoleAppRabbitMQ\ConsoleAppRabbitMQ\obj\Debug\net7.0\ref\ConsoleAppRabbitMQ.dll
